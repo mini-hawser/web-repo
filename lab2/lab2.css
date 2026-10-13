@@ -1,0 +1,57 @@
+
+.header1{
+    color:white;
+    background-color: black;
+ text-align: center;
+}
+.info{
+    display: flex;
+    justify-content: center;
+   
+}
+.para{
+    padding: 10px;
+}
+.about{
+    text-align: center;
+}
+.projects{
+    text-align: center;
+     margin-top: 100px;
+
+    
+    
+
+}
+.group{
+    text-align: left;
+       display: inline-block;
+       margin:10px
+      
+}
+.contact{
+    text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+   
+    padding-bottom: 30px;
+
+}
+button{
+    background-color: black;
+    color: white;
+   padding-left: 100px;
+   padding-right: 100px;
+   border: 0px;
+   border-radius: 12px;
+}
+input{
+    text-align: left;
+    margin: 10px;
+   padding-right: 120px;
+   border: 0px;
+}
+
+
