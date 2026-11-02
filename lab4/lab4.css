@@ -1,0 +1,17 @@
+body{
+    background-color: lightgreen;
+    text-align: center;
+}
+button{
+
+    background-color: blue;
+    color:white;
+    border-radius: 12px;
+    align-items: center;
+
+}
+#tasks{
+    margin-top: 20px;
+    background-color: blueviolet;
+    display: inline-block;
+}
